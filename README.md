@@ -1,3 +1,3 @@
 # demo
 this is my first repo
-author - vijay bidwan
+author - vijay bidwan rajput
